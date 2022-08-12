@@ -55,7 +55,8 @@ The hotkeys aren't hard to understand, but for you that doesnt understand about 
 
 ## Quick Tips
 
-An issue that i was heaving was with the **realistic catch** (i can't use auto-catch, its ugly as hell), sometimes your keys could bug! So i highly recommend by pressing **both catch keys at the same time**, or bind 1 key to the 2 commands `EXAMPLE: LAlt to L3+R3`
++ Realistic Catch
+	-An issue that i was heaving was with the **realistic catch** (i can't use auto-catch, its ugly as hell), sometimes your keys could bug! So i highly recommend by pressing **both catch keys at the same time**, or bind 1 key to the 2 commands `EXAMPLE: LAlt to L3+R3`
 
 + Mute Keys
 	- Remember to `mute all the keys that you're using` or some mod bindings **gonna conflict**, and thats a big problem if you're playing SXL.
