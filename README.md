@@ -66,5 +66,5 @@ I appreciate again, thanks!
 ## Support me
 
 If you want to (isn't required!), you can support me, i will keep updating this github and the youtube video, to bring better resources for the keyboard community.
-[Ko-fi](https://ko-fi.com/feirut)
-[StreamLabs](https://streamlabs.com/feirut/tip) if you want through here.
+	- [Ko-fi](https://ko-fi.com/feirut)
+	- [StreamLabs](https://streamlabs.com/feirut/tip) if you want through here.
