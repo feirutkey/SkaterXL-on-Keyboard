@@ -58,7 +58,11 @@ An issue that i was heaving was with the realistic catch (i can't use auto-catch
 
 Remember to `mute all the keys that you're using` or some mod bindings **gonna conflict**, and thats a big problem if you're playing SXL.
 
-### Thanks
+## Autodetect
+
+Make sure to list SkaterXL on Autodetect so your USB Receiver (from reWASD) is controled by it, because when you're in game, your keys are muted, and they don't work as a normal keyboard.
+
+## Thanks
 
 Thanks for reading this guide or if you're watching the youtube video, you guys can send me a dm on discord `feirut#2097`or if you guys have found a better way to resolve that.
 I appreciate again, thanks!
