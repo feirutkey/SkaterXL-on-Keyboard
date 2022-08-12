@@ -1,5 +1,7 @@
 # SkaterXL on Keyboard (GUIDE)
 
+`Latest update: 08/12/2022`
+
 Knowing that you NEED an controller to play this game, i was determined to play with keyboard after my controller broke, but i still do not recommend it, you gonna need to tweak to your playstyle, even if you're playing with my config.
 It's hard, you gonna have patience, at the same time you had to make your stats or atleast edit the stats you gather from other guys, its the same thing, but atleast is a new challenge!
 
