@@ -9,9 +9,8 @@ You gonna need to use reWASD to remap your keyboard to a controller, keep that i
 
 ### Prerequisites + Installation
 
-```
 reWASD - The latest build is on their website, you can follow up by [this link](https://www.rewasd.com/) (just to remember, im not affiliated with them or any software)
-```
+
 
 ## Installing
 
@@ -20,10 +19,10 @@ After that, don't open it, yet!
 
 ## Using the Config
 
-```
-You can download this basic config that i've made [here](https://www.mediafire.com/file/fxpbbvcf7js59sf/Skater_XL.rar/file), its really easy so you can setup each key by your own later.
+
+You can download this `basic config` that i've made [here](https://www.mediafire.com/file/fxpbbvcf7js59sf/Skater_XL.rar/file), its really easy so you can setup each key by your own later.
 After that, go to yours Local Disk C/Users/Public/Documents/reWASD/Profiles and paste in there, so when you open reWASD you can load it up!
-```
+
 
 Now you can open reWASD!
 
