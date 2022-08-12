@@ -70,6 +70,7 @@ Thanks for reading this guide or if you're watching the youtube video, you guys 
 ## Support me
 
 If you want to **(isn't required!)**, you can support me, i will keep updating this github and the youtube video, to bring better resources for the keyboard community.
+
 `All the donations are going to buy a new controller + keyboard, and buy meshes/assets/sounds to make gear/maps to you guys for free!`
 	
 + [Ko-fi](https://ko-fi.com/feirut)
