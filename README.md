@@ -75,3 +75,5 @@ If you want to **(isn't required!)**, you can support me, i will keep updating t
 	
 + [Ko-fi](https://ko-fi.com/feirut)
 + [StreamLabs](https://streamlabs.com/feirut/tip) if you want through here.
++ [Twitch](https://www.twitch.tv/feirut)
++ [Youtube](https://www.youtube.com/channel/UC_S2viGEIDeJFIH_-vzbDlA)
