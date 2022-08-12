@@ -55,9 +55,9 @@ The hotkeys aren't hard to understand, but for you that doesnt understand about 
 An issue that i was heaving was with the realistic catch (i can't use auto-catch, its ugly as hell), sometimes your keys could bug! So i highly recommend by pressing both catch keys at the same time, or bind 1 key to the 2 commands `EXAMPLE: LAlt to L3+R3`
 
 + Mute Keys
-	-Remember to `mute all the keys that you're using` or some mod bindings **gonna conflict**, and thats a big problem if you're playing SXL.
+	- Remember to `mute all the keys that you're using` or some mod bindings **gonna conflict**, and thats a big problem if you're playing SXL.
 + Autodetect
-	-Make sure to list SkaterXL on Autodetect so your USB Receiver (from reWASD) is controled by it, because when you're in game, your keys are muted, and they don't work as a normal keyboard.
+	- Make sure to list SkaterXL on Autodetect so your USB Receiver (from reWASD) is controled by it, because when you're in game, your keys are muted, and they don't work as a normal keyboard.
 
 ## Thanks
 
