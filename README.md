@@ -62,6 +62,11 @@ An issue that i was heaving was with the **realistic catch** (i can't use auto-c
 + Autodetect
 	- Make sure to **list** `SkaterXL on Autodetect` so your USB Receiver (from reWASD) is controled by it, because when you're in game, **your keys are muted, and they don't work as a normal keyboard.**
 
+## Socials
+
++ [Twitch](https://www.twitch.tv/feirut)
++ [Youtube](https://www.youtube.com/channel/UC_S2viGEIDeJFIH_-vzbDlA)
+
 ## Thanks
 
 Thanks for reading this guide or if you're watching the youtube video, you guys can send me a dm on discord `feirut#2097`or if you guys have found a better way to resolve that.
@@ -75,5 +80,4 @@ If you want to **(isn't required!)**, you can support me, i will keep updating t
 	
 + [Ko-fi](https://ko-fi.com/feirut)
 + [StreamLabs](https://streamlabs.com/feirut/tip) if you want through here.
-+ [Twitch](https://www.twitch.tv/feirut)
-+ [Youtube](https://www.youtube.com/channel/UC_S2viGEIDeJFIH_-vzbDlA)
+
