@@ -20,7 +20,7 @@ After that, don't open it, yet!
 ## Using the Config
 
 
-You can download this `basic config` that i've made [here](https://www.mediafire.com/file/fxpbbvcf7js59sf/Skater_XL.rar/file), its really easy so you can setup each key by your own later.
+You can download this `basic config` that i've made [here](https://www.mediafire.com/file/fxpbbvcf7js59sf/Skater_XL.rar/file) or [here](https://github.com/feirutkey/SkaterXL-on-Keyboard/tree/main/Skater%20XL), its really easy so you can setup each key by your own later.
 After that, go to yours Local Disk C/Users/Public/Documents/reWASD/Profiles and paste in there, so when you open reWASD you can load it up!
 
 
