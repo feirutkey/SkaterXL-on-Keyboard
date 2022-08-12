@@ -12,12 +12,12 @@ You gonna need to use **reWASD** to remap your keyboard to a controller, keep th
 
 ### Prerequisites + Installation
 
-reWASD - The latest build is on their website, you can follow up by [this link](https://www.rewasd.com/) (just to remember, im not affiliated with them or any software)
+**reWASD** - The latest build is on their website, you can follow up by [this link](https://www.rewasd.com/) (just to remember, im not affiliated with them or any software)
 
 
 ## Installing
 
-Install reWASD and restart your pc, so the driver will load up and get the virtual mapping working properly.
+**Install reWASD and restart your pc**, so the driver will load up and get the virtual mapping working properly.
 After that, don't open it, yet!
 
 ## Using the Config
