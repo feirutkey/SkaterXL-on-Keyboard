@@ -33,10 +33,10 @@ Now you can open reWASD!
 The hotkeys aren't hard to understand, but for you that doesnt understand about computer, this will be a complete guide on all of it.
 
 + WASD (Left Stick)
-	- W = Left Stick UP / A = Left Stick LEFT / S = Left Stick DOWN / D = Left Stick RIGHT 
+	- W = Left Stick UP / A = Left Stick LEFT / S = Left Stick DOWN / D = Left Stick RIGHT `works in diagonal too W+A/W+D/etc`
 	- `If you hold Left Shift + W/A/S/D it will make the sensitivity slower (not using 100% of the stick, so you can manual with it)`
 + Arrow Keys (Right Stick) 
-	- UP = Right Stick UP / LEFT = Right Stick LEFT / Down = Right Stick DOWN / Right = Right Stick RIGHT
+	- UP = Right Stick UP / LEFT = Right Stick LEFT / Down = Right Stick DOWN / Right = Right Stick RIGHT `works in diagonal too UP+RIGHT/UP+LEFT/etc`
 	- `Same thing, if you hold Right Shift + UP/LEFT/DOWN/RIGHT it will make the sensitivity slower (not using 100% of the stick, so you can manual with it)`
 + Left Ctrl (Left Trigger)
 + Right Ctrl (Right Trigger)
